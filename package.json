@@ -1,0 +1,25 @@
+{
+  "name": "pingcloud",
+  "version": "1.0.0",
+  "description": "pingcloud discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlcc/pingcloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlcc/pingcloud/issues"
+  },
+  "homepage": "https://github.com/karlcc/pingcloud#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ping-monitor": "^0.1.6"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"token":"discordbottoken",
+	"website":"http://pingcloud.example.com",
+	"prefix":"!",
+	"timer":1,
+	"yourID":"chatid",
+	"setupCMD":"!makerole",
+	"initialMessage":"testmessage",
+	"roles":["ack", "Ping_Off", "Server_Off", "Server_On"],
+	"reactions":["✅", "😃", "😉", "😎"]
+}
